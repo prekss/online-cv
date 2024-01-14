@@ -9,37 +9,30 @@ sidebar:
 
     # Profile information
     name: Ioannis Prekas
-    tagline: Full Stack Developer
+    tagline: Python Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: johnprek@gmail.com
+    phone: +30 697 60 41 075
+    timezone: Europe/Athens
+    citizenship: Greek
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    linkedin: giannis-prekas-84bb1253
+    github: prekss / PrekssOrg
+    telegram: prekss
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Greek
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
+        - idiom: German
           level: Professional
 
     interests:
