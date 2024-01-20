@@ -150,7 +150,7 @@ projects:
         tagline: |
           "CopytipBot
            Overview:
-              -CopytipBota is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
+             -CopytipBota is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
               
            Key Features:
              - Automated Betting through Telegram: Utilizes the Telethon library to seamlessly connect with Telegram, enabling users to place bets automatically based on received betting tips.
