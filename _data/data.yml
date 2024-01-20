@@ -23,7 +23,7 @@ sidebar:
     telegram: prekss
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,9 +36,6 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
-
-        - idiom: German
           level: Professional
 
     interests:
