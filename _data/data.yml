@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Ioannis Prekas
-    tagline: Python Developer
+    tagline: Full-Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -19,7 +19,6 @@ sidebar:
     citizenship: Greek
     website: #do not add http://
     linkedin: giannis-prekas
-    github: prekss
     github: PrekssOrg
     telegram: prekss
     gitlab:
@@ -42,13 +41,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: 
           link:
 
-        - item: Snowboarding
+        - item: 
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
