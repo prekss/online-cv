@@ -148,32 +148,28 @@ projects:
       - title: CopytipBot
         link: ""
         tagline: |
-        "CopytipBot
+          "CopytipBot
+           Overview:
+              -CopytipBota is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
+              
+           Key Features:
+             - Automated Betting through Telegram: Utilizes the Telethon library to seamlessly connect with Telegram, enabling users to place bets automatically based on received betting tips.
+             - Advanced User Customization: Offers comprehensive configuration through telegram messages for personalized betting experiences. Currently supports 16 different Tipsters for both Football and NBA.
+             - Real-Time Notifications and Alerts: Integrates CopytipBotValidate to provide users with immediate updates on betting executions, balance status, and any service interruptions, directly via Telegram.
+             - Performance Tracking and Analysis: Employs the Openpyxl library to meticulously record all executed bets in an Excel spreadsheet, facilitating detailed analysis of portfolio performance, betting history and strategy effectiveness per Tipster or overall.
 
-Overview:
+          Technical Implementation:
+            - Python is the primary programming language used for the development of this solution.
+            - Telethon is handling the connection, message parsing, and communication between CopytipBot and Telegram, enabling seamless automated betting processes based on user-received tips.
+            - Selenium is used to automate web browsers interacting with the betting website and executing bets according to the instructions received via Telegram.
+            - Openpyxl is utilized for the creation and manipulation of Excel spreadsheets within Python, recording all executed bets and helping to track the performance and provide insights.
 
-CopytipBota is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
-Key Features:
-
-    Automated Betting through Telegram: Utilizes the Telethon library to seamlessly connect with Telegram, enabling users to place bets automatically based on received betting tips.
-    Advanced User Customization: Offers comprehensive configuration through telegram messages for personalized betting experiences. Currently supports 16 different Tipsters for both Football and NBA.
-    Real-Time Notifications and Alerts: Integrates CopytipBotValidate to provide users with immediate updates on betting executions, balance status, and any service interruptions, directly via Telegram.
-    Performance Tracking and Analysis: Employs the Openpyxl library to meticulously record all executed bets in an Excel spreadsheet, facilitating detailed analysis of portfolio performance, betting history and strategy effectiveness per Tipster or overall.
-
-Technical Implementation:
-
-    Python is the primary programming language used for the development of this solution.
-    Telethon is handling the connection, message parsing, and communication between CopytipBot and Telegram, enabling seamless automated betting processes based on user-received tips.
-    Selenium is used to automate web browsers interacting with the betting website and executing bets according to the instructions received via Telegram.
-    Openpyxl is utilized for the creation and manipulation of Excel spreadsheets within Python, recording all executed bets and helping to track the performance and provide insights.
-
-Main technologies used:
-
-    Python
-    Selenium
-    Openpyxl
-    Pycel
-    Telethon"
+          Main technologies used:
+           Python
+           Selenium
+           Openpyxl
+           Pycel
+           Telethon"
 
       - title: DevStudio
         link: "#"
