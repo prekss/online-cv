@@ -146,8 +146,9 @@ projects:
     intro: 
     assignments:
       - title: CopytipBot
-        link: ""
-        tagline: |
+        link: 
+        tagline: 
+        details: |
           "CopytipBot
            Overview:
              -CopytipBot is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
@@ -170,17 +171,6 @@ projects:
            Openpyxl
            Pycel
            Telethon"
-        details: |
-          Sales Services:
-            - Researching, identifying and contacting leads
-            - Following up and renewing sales
-            - Bringing in new business and making sales
-            
-          IT Services:
-            - Developing automation tools using Python to enhance sales processes
-            - Managing and monitoring network and server infrastructure
-            - Ensuring data is backed up on a regular basis
-            - Providing technical support to office computer users
 
       - title: DevStudio
         link: "#"
