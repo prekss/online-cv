@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ioannis Prekas
@@ -147,12 +147,9 @@ projects:
     assignments:
       - title: CopytipBot
         link: 
-        tagline: 
+        tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
-          "Overview:
-             - CopytipBot is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
-              
-           Key Features:
+          "Key Features:
              - Automated Betting through Telegram: Utilizes the Telethon library to seamlessly connect with Telegram, enabling users to place bets automatically based on received betting tips.
              - Advanced User Customization: Offers comprehensive configuration through telegram messages for personalized betting experiences. Currently supports 16 different Tipsters for both Football and NBA.
              - Real-Time Notifications and Alerts: Integrates CopytipBotValidate to provide users with immediate updates on betting executions, balance status, and any service interruptions, directly via Telegram.
@@ -167,8 +164,8 @@ projects:
           Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon"
 
       - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: 
+        tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
           "Overview:
              - CopytipBot is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
@@ -188,8 +185,8 @@ projects:
           Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon"
 
       - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: 
+        tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
           "Overview:
              - CopytipBot is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
@@ -209,8 +206,8 @@ projects:
           Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon"
 
       - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: 
+        tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
           "Overview:
              - CopytipBot is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
@@ -230,8 +227,8 @@ projects:
           Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon"
 
       - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: 
+        tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
           "Overview:
              - CopytipBot is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
@@ -251,8 +248,8 @@ projects:
           Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon"
 
       - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: 
+        tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
           "Overview:
              - CopytipBot is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
@@ -272,8 +269,8 @@ projects:
           Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon"
 
       - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: 
+        tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
           "Overview:
              - CopytipBot is a sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution.
