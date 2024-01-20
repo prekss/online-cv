@@ -57,28 +57,22 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Networking & Data Communications
+        university: Kingston University London
+        time: 09/2013 - 02/2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
+          Courses:
+            - Data Communications
+            - Multimedia Communications
+            - Wireless Communications and Networks
+            - Network and Information security
+
+          Dissertation: "Video Codec Evaluation Based on PSNR, SSIM, VQM and MSE"
+      - degree: BSc in Electronics Engineering
         university: Bristol University
-        time: 2007 - 2011
+        time: 02/2008 - 05/2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Dissertation: “Smart Grids and their Applications in Renewal Energy Sources” 
 
 experiences:
     title: Experiences
