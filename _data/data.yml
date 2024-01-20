@@ -110,44 +110,42 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Sales Executive & IT Administrator
+        time: 07/2015 - Present
+        company: All Marine International Services Ltd.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Sales Services:
+            - Researching, identifying and contacting leads
+            - Following up and renewing sales
+            - Bringing in new business and making sales
+            
+            IT Services:
+            - Developing automation tools using Python, enhancing sales processes
+            - Oversee network and server
+            - Ensuring data is backed up on a regular basis
+            - Providing IT support to computer users within the office
+            - Liasing with external support company
+            - Ensuring all software is properly licensed
+            
+      - role: ICT Administrator
+        time: 10/2012 - 06/2015
+        company: Enel Green Power
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          ICT Services:
+            - Oversee network and server
+            - Ensuring data is backed up on a regular basis
+            - Providing IT support to computer users within the office
+            - First port of call and initial troubleshooting of IT problems and resolving if possible
+            - Logging all IT problems and resolutions
+            - Liasing with external support company
+            - Inducting new staff on IT systems
+            - Keeping inventory of hardware and maintenance records
+            - Ensuring all software is properly licensed
+      - role: Sales
+        time: 07/2007 - 08/2008
+        company: Levi Strauss & Co.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          
 certifications:
       title: Certifications
       list:
@@ -278,6 +276,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
