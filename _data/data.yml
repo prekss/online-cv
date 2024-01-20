@@ -60,7 +60,8 @@ education:
       - degree: MSc in Networking & Data Communications
         university: Kingston University London
         time: 09/2013 - 02/2016
-        details: Courses:
+        details: |
+          Courses:
             - Data Communications
             - Multimedia Communications
             - Wireless Communications and Networks
