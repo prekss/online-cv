@@ -152,7 +152,6 @@ certifications:
           credentialname: 
           details: |
             
-
 projects:
     title: Projects
     intro: >
@@ -179,24 +178,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: 
-    intro: |
-    contributions:
-      - title: 
-        link: "#"
-        tagline: ""
-
-publications:
-    title: 
-    intro: |
-      
-    papers:
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
 
 skills:
     title: Skills &amp; Proficiency
