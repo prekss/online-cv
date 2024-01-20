@@ -126,7 +126,7 @@ certifications:
       title: Certifications
       list:
         - name: ITIL v3 Foundation 2011
-          start: 2015
+          start: 04/2015
           end: 
           organization: AXELOS Global Best Practice
           credentialid: 
@@ -135,7 +135,7 @@ certifications:
           details: |
             
         - name: WowZapp 2012 - The Worldwide Hackathon for Windows 8
-          start: 2015
+          start: 10/2012
           end:
           organization: Microsoft
           credentialid: 
@@ -144,7 +144,7 @@ certifications:
           details: |
           
         - name: International Education Week 2011 – Technology in education process
-          start: 2011
+          start: 10/2011
           end:
           organization: IEEE Student Branch TEI Piraeus
           credentialid: 
