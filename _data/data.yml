@@ -19,10 +19,16 @@ sidebar:
     citizenship: Greek
     website: #do not add http://
     linkedin: giannis-prekas-84bb1253
-    github: prekss / PrekssOrg
+    github: PrekssOrg
     telegram: prekss
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
-
+    
     languages:
       title: Languages
       info:
