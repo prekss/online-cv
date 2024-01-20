@@ -50,28 +50,6 @@ sidebar:
         - item: 
           link:
 
-    skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
 career-profile:
     title: Career Profile
     summary: |
@@ -120,26 +98,24 @@ experiences:
             - Bringing in new business and making sales
             
             IT Services:
-            - Developing automation tools using Python, enhancing sales processes
-            - Oversee network and server
+            - Developing automation tools using Python to enhance sales processes
+            - Managing and monitoring network and server infrastructure
             - Ensuring data is backed up on a regular basis
-            - Providing IT support to computer users within the office
-            - Liasing with external support company
-            - Ensuring all software is properly licensed
+            - Providing technical support to office computer users
             
       - role: ICT Administrator
         time: 10/2012 - 06/2015
         company: Enel Green Power
         details: |
           ICT Services:
-            - Oversee network and server
+            - Managing and monitoring network and server infrastructure
             - Ensuring data is backed up on a regular basis
-            - Providing IT support to computer users within the office
-            - First port of call and initial troubleshooting of IT problems and resolving if possible
-            - Logging all IT problems and resolutions
+            - Providing technical support to office computer users & remote collaborators
+            - Serving as the initial point of contact for troubleshooting and resolving IT issues
+            - Documenting all IT problems and resolutions
             - Liasing with external support company
-            - Inducting new staff on IT systems
-            - Keeping inventory of hardware and maintenance records
+            - Conducting induction sessions for new staff on IT systems
+            - Managing inventory of hardware and maintenance records
             - Ensuring all software is properly licensed
       - role: Sales
         time: 07/2007 - 08/2008
