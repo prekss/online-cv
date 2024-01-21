@@ -250,20 +250,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python, Django & Flask
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Selenium
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 90%        
+
+      - name: Software Testing
+        level: 80%
+
+      - name: Linux & Bash
+        level: 80%
+
+      - name: Git & Github
+        level: 80%
+
+      - name: REST APIs
+        level: 75%
+
+      - name: Docker & Kubernetes
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Windows System Administration
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: JavaScript & AJAX
         level: 60%
