@@ -134,102 +134,50 @@ projects:
     assignments:
       - title: WizardNotifier
         link: 
-        tagline: "An advanced Python-based application designed to monitor specific web content and provide real-time alerts."
+        tagline: "A Python-based application for web content monitoring. Features real-time alerts via Telegram, using Selenium and Telethon for tracking specific web content changes and customizable monitoring settings."
         details: |
-          Key Features:
-             - Web Content Monitoring: Uses Selenium and undetected_chromedriver to monitor specified web pages for certain text or changes, providing a vigilant watch over user-defined content.
-             - Real-Time Telegram Alerts: Employs the Telethon library for Telegram integration, ensuring users receive instant notifications when their specified content criteria are met.
-             - Customizable Monitoring Parameters: Allows users to set specific URLs, target texts and refresh rates for personalized monitoring setups, through interactive Telegram command interface.
-
           Main technologies/libraries used: Python, Selenium, Telethon
 
       - title: SmartHome
         link: 
-        tagline: "A project made for centralized home automation control by bringing a sophisticated and user-friendly web interface that allows for seamless interaction with various home devices."
+        tagline: "Centralized home automation system with a web interface for device interaction. Features include AC, smart plug, temperature monitoring, thermostat management, vacuum robot, water heater and TV control."
         details: |
-          Key Features:
-             - AC Control: Integrates with air conditioning systems to provide functionalities like on/off control, temperature adjustment and scheduling, using the ESPhome (aioesphomeapi) library.
-             - Smart Plug Management: Controls smart plugs for lights and other devices with features like on/off toggling and scheduling via the tinytuya library.
-             - Camera and Security: Manages home security cameras with on/off capabilities and motion detection alerts using the python-miio library.
-             - Live Temperature Updates: Fetches and displays live temperature data from outside the home using OpenWeatherMap API.
-             - In-home Thermometer Integration: Shows in-home temperature readings from smart thermometers.
-             - Thermostat Management: Offers control over the home thermostat including on/off switching, temperature setting and scheduling via the tinytuya library.
-             - Smart Vacuum Robot: Controls a smart vacuum robot, including on/off toggling and scheduling via the python-miio library.
-             - Water Heater Control: Manages the water heater with on/off control and scheduling using the pysonofflanr3 library.
-             - TV Control: Integrates with TVs using the pywebostv library for seamless control.
-
           Main technologies/libraries used: Python, Django, AJAX, JavaScript, ESPHome, Python-Miio, Tinytuya, Pywebostv, Pysonofflanr3
       
       - title: CopytipBot
         link: 
-        tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
+        tagline: "Python-based automated betting application for traders. Features include Telegram-integrated betting, customizable user settings, real-time notifications and performance tracking. Supports multiple sports with detailed analysis using Opynepyxl and Pycel."
         details: |
-          Key Features:
-             - Automated Betting through Telegram: Utilizes the Telethon library to seamlessly connect with Telegram, enabling users to place bets automatically based on received betting tips.
-             - Advanced User Customization: Offers comprehensive configuration through telegram messages for personalized betting experiences. Currently supports 16 different Tipsters for both Football and NBA.
-             - Real-Time Notifications and Alerts: Integrates CopytipBotValidate to provide users with immediate updates on betting executions, balance status, and any service interruptions, directly via Telegram.
-             - Performance Tracking and Analysis: Employs the Openpyxl library to meticulously record all executed bets in an Excel spreadsheet, facilitating detailed analysis of portfolio performance, betting history and strategy effectiveness per Tipster or overall.
-
           Main technologies/libraries used: Python, Selenium, Openpyxl, Pycel, Telethon
 
       - title: CopytipValidate
         link: 
-        tagline: "An initiative designed to augment the functionality of CopytipBot."
+        tagline: " An extension of CopytipBot focused on user verification and real-time alerts. Features include a robust system for authenticating users via names, MAC addresses, and UUIDs and Telegram-based notifications for service updates and network issues."
         details: |
-          Key Features:
-             - User Verification: Implements a robust verification system by receiving assigned names, MAC addresses and System UUIDs through post requests, to ensure that only authorized users have access to CopytipBot, thereby maintaining control over the distribution and use of the application.
-             - Real-Time Telegram Alerts: Provides users with instantaneous notifications on Telegram. These alerts cover a range of important updates, including service disruptions, incidents, low balance status and network failures on the installed machines.
-
           Main technologies/libraries used: Python, Flask
 
       - title: AISParser
         link: 
-        tagline: "A Python project tailored for the maritime industry to automate and simplify web scraping and data extraction tasks, particularly focusing on vessel information."
+        tagline: "A Python-based tool for the maritime industry, designed to automate vessel data extraction from online sources. Key functions include retrieving vessel destination, ETA and status, processing Excel input lists and efficient data export to Excel using Openpyxl."
         details: |
-          Key Features:
-             - Automated Vessel Data Extraction: Capable of retrieving vital information such as Vessel's Destination Port, ETA, and Current Status from various online sources.
-             - Input from Excel: Accepts an input Excel file with a list of vessel names, providing a straightforward approach for users to specify the data they need.
-             - Efficient Data Export: After scraping and processing the data, AisParser utilizes the Openpyxl library to export the information into a well-organized Excel file, making data analysis and reporting more accessible.
-
           Main technologies/libraries used: Python, Selenium, Openpyxl
 
       - title: MisParser
         link: 
-        tagline: "A Python-based tool crafted specifically for maritime industry needs, designed to assist users in gathering detailed information about vessels owned by various shipping companies."
+        tagline: "A Python tool for the maritime industry, specializing in gathering vessel information from shipping companies. Features include extracting data like vessel name, type, build year, and IMO number, handling Excel inputs for data scraping, and using Selenium and Beautiful Soup for web scraping. It organizes and exports data to Excel with Openpyxl for easy analysis."
         details: |
-          Key Features:
-             - Targeted Data Extraction: Specialized in retrieving comprehensive vessel information, including Vessel Name, Vessel Type, Year of Build and IMO Number.
-             - Input Flexibility: Accepts an Excel file listing shipping companies, serving as the starting point for data scraping operations.
-             - Advanced Web Scraping: Utilizes Selenium for dynamic web scraping and Beautiful Soup for parsing HTML, ensuring accurate and efficient data extraction from various web sources.
-             - Data Organization and Export: Seamlessly compiles the extracted data and organizes it in a user-friendly format. Utilizes the Openpyxl library to export the organized data back into an Excel file, facilitating easy analysis and reporting.
-
           Main technologies/libraries used: Python, Selenium, Openpyxl, Beautiful Soup          
 
       - title: BinanceFuturesPythonBot
         link: 
-        tagline: "A Python-based automated trading solution designed specifically for the Binance Futures cryptocurrency exchange."
+        tagline: "An automated trading bot for Binance Futures, integrating Python and Telegram via Telethon. Features customizable trading strategies, advanced settings including leverage and position sizing, real-time market data via Binance API, and user commands for trade monitoring. Offers multi-platform notifications and tracks trade history and performance in a SQLite database."
         details: |
-          Key Features:
-             - Automated Trading Strategies: Supports the execution of various trading strategies, customizable to individual trader needs.
-             - Integration with Telegram: Utilizes the Telethon library to connect to Telegram, parsing and executing trading signals based on user-defined settings.
-             - Advanced Trading Settings: Includes comprehensive features like leverage adjustment, position sizing, distribution across up to 7 targets, breakeven points, trailing stops and specific take profit/stop loss levels.
-             - Real-Time Market Data: Leverages the Binance Futures API for access to real-time market data, crucial for making informed trading decisions.
-             - User Commands for Monitoring: Offers a variety of commands to check current balance, open positions, and orders, enhancing user control and oversight.
-             - Multi-Platform Notifications: Enables real-time notifications through Pushbullet, Pushover, and Telegram about trade executions, market conditions, and bot activities.
-             - Trade History and Performance Tracking: Maintains a comprehensive record of all executed trades in a SQLite database, facilitating thorough monitoring of portfolio performance and analysis of strategy effectiveness.
-
           Main technologies/libraries used: Python, REST APIs, SQLite, Telethon
 
       - title: Design and maintenance of the web pages for student registration in the University labs at ATEI Piraeus
         link: 
-        tagline: 
+        tagline: "Spearheaded the design and maintenance of student registration web pages. Utilized HTML and PHP for interface development, JavaScript for interactive elements, and SQL for database management. Responsible for ongoing updates and performance optimization."
         details: |
-          Key Features:
-             - Web Design and Development: Leveraged HTML and PHP to construct and enhance the user interface, ensuring an intuitive and efficient user experience for students navigating the registration process.
-             - Interactive Elements: Utilized JavaScript to integrate dynamic and interactive features, thereby creating a more engaging and user-friendly web environment.
-             - Database Management: Employed SQL for robust database handling, focusing on secure and organized storage of student registration data.
-             - Ongoing Maintenance: Regularly updated and maintained the web pages to ensure seamless functionality, current information, and optimal performance.
-
           Main technologies used: HTML, PHP, SQL, JavaScript
 
 skills:
