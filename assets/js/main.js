@@ -1,7 +1,7 @@
 jQuery(document).ready(function($) {
 
     $('.level-bar-inner').css('width', '0');
-    
+    $('.level-bar-inner-sidebar').css('width', '0');
     $(window).on('load', function() {
 
         $('.level-bar-inner').each(function() {
@@ -13,6 +13,17 @@ jQuery(document).ready(function($) {
             }, 800);
             
         });
+        $('.level-bar-inner-sidebar').each(function() {
+
+           var itemWidth = $(this).data('level');
+
+           $(this).animate({
+               width: itemWidth
+           }, 800);
+
+       });
+
+
 
     });
    
