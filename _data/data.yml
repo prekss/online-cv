@@ -91,7 +91,7 @@ experiences:
           - Oversaw network and server infrastructure, ensuring consistent data backup.
           - Provided IT support to both office and remote staff.
           - Acted as the first point of contact for IT troubleshooting and issue resolution.
-          - Managed IT documentation, external support liaisons, and staff IT inductions.
+          - Managed IT documentation, external support liaisons and staff IT inductions.
           - Maintained hardware inventory and software licensing.
       - role: Sales
         time: 07/2007 - 08/2008
@@ -152,7 +152,7 @@ projects:
 
       - title: CopytipValidate
         link: 
-        tagline: " An extension of CopytipBot focused on user verification and real-time alerts. Features include a robust system for authenticating users via names, MAC addresses, and UUIDs and Telegram-based notifications for service updates and network issues."
+        tagline: " An extension of CopytipBot focused on user verification and real-time alerts. Features include a robust system for authenticating users via names, MAC addresses and UUIDs and Telegram-based notifications for service updates and network issues."
         details: |
           Main technologies/libraries used: Python, Flask
 
@@ -164,19 +164,19 @@ projects:
 
       - title: MisParser
         link: 
-        tagline: "A Python tool for the maritime industry, specializing in gathering vessel information from shipping companies. Features include extracting data like vessel name, type, build year, and IMO number, handling Excel inputs for data scraping, and using Selenium and Beautiful Soup for web scraping. It organizes and exports data to Excel with Openpyxl for easy analysis."
+        tagline: "A Python tool for the maritime industry, specializing in gathering vessel information from shipping companies. Features include extracting data like vessel name, type, build year and IMO number, handling Excel inputs for data scraping and using Selenium and Beautiful Soup for web scraping. It organizes and exports data to Excel with Openpyxl for easy analysis."
         details: |
           Main technologies/libraries used: Python, Selenium, Openpyxl, Beautiful Soup          
 
       - title: BinanceFuturesPythonBot
         link: 
-        tagline: "An automated trading bot for Binance Futures, integrating Python and Telegram via Telethon. Features customizable trading strategies, advanced settings including leverage and position sizing, real-time market data via Binance API, and user commands for trade monitoring. Offers multi-platform notifications and tracks trade history and performance in a SQLite database."
+        tagline: "An automated trading bot for Binance Futures, integrating Python and Telegram via Telethon. Features customizable trading strategies, advanced settings including leverage and position sizing, real-time market data via Binance API and user commands for trade monitoring. Offers multi-platform notifications and tracks trade history and performance in a SQLite database."
         details: |
           Main technologies/libraries used: Python, REST APIs, SQLite, Telethon
 
       - title: Design and maintenance of the web pages for student registration in the University labs at ATEI Piraeus
         link: 
-        tagline: "Spearheaded the design and maintenance of student registration web pages. Utilized HTML and PHP for interface development, JavaScript for interactive elements, and SQL for database management. Responsible for ongoing updates and performance optimization."
+        tagline: "Spearheaded the design and maintenance of student registration web pages. Utilized HTML and PHP for interface development, JavaScript for interactive elements and SQL for database management. Responsible for ongoing updates and performance optimization."
         details: |
           Main technologies used: HTML, PHP, SQL, JavaScript
 
