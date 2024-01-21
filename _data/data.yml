@@ -130,8 +130,7 @@ projects:
         link: 
         tagline: "An advanced Python-based application designed to monitor specific web content and provide real-time alerts."
         details: |
-          Key Features:
-             - Web Content Monitoring: Uses Selenium and undetected_chromedriver to monitor specified web pages for certain text or changes, providing a vigilant watch over user-defined content.
+          - Using Selenium to monitor specified web pages for certain text or changes, providing a vigilant watch over user-defined content.
              - Real-Time Telegram Alerts: Employs the Telethon library for Telegram integration, ensuring users receive instant notifications when their specified content criteria are met.
              - Customizable Monitoring Parameters: Allows users to set specific URLs, target texts and refresh rates for personalized monitoring setups, through interactive Telegram command interface.
 
