@@ -62,6 +62,12 @@ education:
         university: Kingston University London
         time: 09/2013 - 02/2016
         details: |
+          Courses:
+            - Data Communications
+            - Multimedia Communications
+            - Wireless Communications and Networks
+            - Network and Information security
+
           Dissertation: "Video Codec Evaluation Based on PSNR, SSIM, VQM and MSE"
       - degree: BSc in Electronics Engineering
         university: Technological Educational Institute of Piraeus
@@ -77,10 +83,15 @@ experiences:
         company: All Marine International Services Ltd.
         details: |
           Sales Services:
-            - Researching, identifying and contacting leads, following up and renewing sales, bringing in new business and making sales
+            - Researching, identifying and contacting leads
+            - Following up and renewing sales
+            - Bringing in new business and making sales
             
           IT Services:
-            - Developing automation tools using Python to enhance sales processes, managing and monitoring network and server infrastructure, ensuring data is backed up on a regular basis, providing technical support to office computer users
+            - Developing automation tools using Python to enhance sales processes
+            - Managing and monitoring network and server infrastructure
+            - Ensuring data is backed up on a regular basis
+            - Providing technical support to office computer users
             
       - role: ICT Administrator
         time: 10/2012 - 06/2015
@@ -139,7 +150,8 @@ projects:
         link: 
         tagline: "An advanced Python-based application designed to monitor specific web content and provide real-time alerts."
         details: |
-             - Using Selenium to monitor specified web pages for certain text or changes, providing a vigilant watch over user-defined content.
+          Key Features:
+             - Web Content Monitoring: Uses Selenium and undetected_chromedriver to monitor specified web pages for certain text or changes, providing a vigilant watch over user-defined content.
              - Real-Time Telegram Alerts: Employs the Telethon library for Telegram integration, ensuring users receive instant notifications when their specified content criteria are met.
              - Customizable Monitoring Parameters: Allows users to set specific URLs, target texts and refresh rates for personalized monitoring setups, through interactive Telegram command interface.
 
@@ -149,6 +161,7 @@ projects:
         link: 
         tagline: "A project made for centralized home automation control by bringing a sophisticated and user-friendly web interface that allows for seamless interaction with various home devices."
         details: |
+          Key Features:
              - AC Control: Integrates with air conditioning systems to provide functionalities like on/off control, temperature adjustment and scheduling, using the ESPhome (aioesphomeapi) library.
              - Smart Plug Management: Controls smart plugs for lights and other devices with features like on/off toggling and scheduling via the tinytuya library.
              - Camera and Security: Manages home security cameras with on/off capabilities and motion detection alerts using the python-miio library.
@@ -165,6 +178,7 @@ projects:
         link: 
         tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
+          Key Features:
              - Automated Betting through Telegram: Utilizes the Telethon library to seamlessly connect with Telegram, enabling users to place bets automatically based on received betting tips.
              - Advanced User Customization: Offers comprehensive configuration through telegram messages for personalized betting experiences. Currently supports 16 different Tipsters for both Football and NBA.
              - Real-Time Notifications and Alerts: Integrates CopytipBotValidate to provide users with immediate updates on betting executions, balance status, and any service interruptions, directly via Telegram.
@@ -176,6 +190,7 @@ projects:
         link: 
         tagline: "An initiative designed to augment the functionality of CopytipBot."
         details: |
+          Key Features:
              - User Verification: Implements a robust verification system by receiving assigned names, MAC addresses and System UUIDs through post requests, to ensure that only authorized users have access to CopytipBot, thereby maintaining control over the distribution and use of the application.
              - Real-Time Telegram Alerts: Provides users with instantaneous notifications on Telegram. These alerts cover a range of important updates, including service disruptions, incidents, low balance status and network failures on the installed machines.
 
@@ -185,6 +200,7 @@ projects:
         link: 
         tagline: "A Python project tailored for the maritime industry to automate and simplify web scraping and data extraction tasks, particularly focusing on vessel information."
         details: |
+          Key Features:
              - Automated Vessel Data Extraction: Capable of retrieving vital information such as Vessel's Destination Port, ETA, and Current Status from various online sources.
              - Input from Excel: Accepts an input Excel file with a list of vessel names, providing a straightforward approach for users to specify the data they need.
              - Efficient Data Export: After scraping and processing the data, AisParser utilizes the Openpyxl library to export the information into a well-organized Excel file, making data analysis and reporting more accessible.
@@ -195,6 +211,7 @@ projects:
         link: 
         tagline: "A Python-based tool crafted specifically for maritime industry needs, designed to assist users in gathering detailed information about vessels owned by various shipping companies."
         details: |
+          Key Features:
              - Targeted Data Extraction: Specialized in retrieving comprehensive vessel information, including Vessel Name, Vessel Type, Year of Build and IMO Number.
              - Input Flexibility: Accepts an Excel file listing shipping companies, serving as the starting point for data scraping operations.
              - Advanced Web Scraping: Utilizes Selenium for dynamic web scraping and Beautiful Soup for parsing HTML, ensuring accurate and efficient data extraction from various web sources.
@@ -206,6 +223,7 @@ projects:
         link: 
         tagline: "A Python-based automated trading solution designed specifically for the Binance Futures cryptocurrency exchange."
         details: |
+          Key Features:
              - Automated Trading Strategies: Supports the execution of various trading strategies, customizable to individual trader needs.
              - Integration with Telegram: Utilizes the Telethon library to connect to Telegram, parsing and executing trading signals based on user-defined settings.
              - Advanced Trading Settings: Includes comprehensive features like leverage adjustment, position sizing, distribution across up to 7 targets, breakeven points, trailing stops and specific take profit/stop loss levels.
@@ -220,6 +238,7 @@ projects:
         link: 
         tagline: 
         details: |
+          Key Features:
              - Web Design and Development: Leveraged HTML and PHP to construct and enhance the user interface, ensuring an intuitive and efficient user experience for students navigating the registration process.
              - Interactive Elements: Utilized JavaScript to integrate dynamic and interactive features, thereby creating a more engaging and user-friendly web environment.
              - Database Management: Employed SQL for robust database handling, focusing on secure and organized storage of student registration data.
