@@ -110,24 +110,6 @@ certifications:
           credentialname: 
           details: |
             
-        - name: WowZapp 2012 - The Worldwide Hackathon for Windows 8
-          start: 10/2012
-          end:
-          organization: Microsoft
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-          
-        - name: International Education Week 2011 – Technology in education process
-          start: 10/2011
-          end:
-          organization: IEEE Student Branch TEI Piraeus
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            
 projects:
     title: Projects
     intro: 
