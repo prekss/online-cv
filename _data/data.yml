@@ -159,16 +159,29 @@ projects:
 
       - title: CopytipValidate
         link: 
-        tagline: "An initiative designed to augment the functionality of CopytipBot."
+        tagline: "An initiative designed to augment the functionality of CopytipBot, a Python-based automated betting solution."
         details: |
           Key Features:
-             Utilizes Flask and the python-telegram-bot library to achieve:
-                - User Verification: Implements a robust verification system by receiving assigned names, MAC addresses and Hard Disk UUID through post requests, to ensure that only authorized users have access to CopytipBot, thereby maintaining control over the distribution and use of the application.
-                - Real-Time Telegram Alerts: Provides users with instantaneous notifications on Telegram. These alerts cover a range of important updates, including service disruptions, incidents, low balance status and network failures on the installed machines.
+             - Automated Betting through Telegram: Utilizes the Telethon library to seamlessly connect with Telegram, enabling users to place bets automatically based on received betting tips.
+             - Advanced User Customization: Offers comprehensive configuration through telegram messages for personalized betting experiences. Currently supports 16 different Tipsters for both Football and NBA.
+             - Real-Time Notifications and Alerts: Integrates CopytipBotValidate to provide users with immediate updates on betting executions, balance status, and any service interruptions, directly via Telegram.
+             - Performance Tracking and Analysis: Employs the Openpyxl library to meticulously record all executed bets in an Excel spreadsheet, facilitating detailed analysis of portfolio performance, betting history and strategy effectiveness per Tipster or overall.
 
-         Main technologies used: Python, Flask
+          Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon
 
-      - title: Tempo
+      - title: SmartHome
+        link: 
+        tagline: "A project made for centralized home automation control"
+        details: |
+          Key Features:
+             - Automated Betting through Telegram: Utilizes the Telethon library to seamlessly connect with Telegram, enabling users to place bets automatically based on received betting tips.
+             - Advanced User Customization: Offers comprehensive configuration through telegram messages for personalized betting experiences. Currently supports 16 different Tipsters for both Football and NBA.
+             - Real-Time Notifications and Alerts: Integrates CopytipBotValidate to provide users with immediate updates on betting executions, balance status, and any service interruptions, directly via Telegram.
+             - Performance Tracking and Analysis: Employs the Openpyxl library to meticulously record all executed bets in an Excel spreadsheet, facilitating detailed analysis of portfolio performance, betting history and strategy effectiveness per Tipster or overall.
+
+          Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon
+
+      - title: BinanceFuturesPythonBot
         link: 
         tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
@@ -180,7 +193,7 @@ projects:
 
           Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon
 
-      - title: Atom
+      - title: MisParser
         link: 
         tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
@@ -192,7 +205,7 @@ projects:
 
           Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon
 
-      - title: Delta
+      - title: AISParser
         link: 
         tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
@@ -204,19 +217,7 @@ projects:
 
           Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon
 
-      - title: Delta
-        link: 
-        tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
-        details: |
-          Key Features:
-             - Automated Betting through Telegram: Utilizes the Telethon library to seamlessly connect with Telegram, enabling users to place bets automatically based on received betting tips.
-             - Advanced User Customization: Offers comprehensive configuration through telegram messages for personalized betting experiences. Currently supports 16 different Tipsters for both Football and NBA.
-             - Real-Time Notifications and Alerts: Integrates CopytipBotValidate to provide users with immediate updates on betting executions, balance status, and any service interruptions, directly via Telegram.
-             - Performance Tracking and Analysis: Employs the Openpyxl library to meticulously record all executed bets in an Excel spreadsheet, facilitating detailed analysis of portfolio performance, betting history and strategy effectiveness per Tipster or overall.
-
-          Main technologies used: Python, Selenium, Openpyxl, Pycel, Telethon
-
-      - title: Delta
+      - title: WizardNotifier
         link: 
         tagline: "A sophisticated Python-based application that revolutionizes the way traders bet by offering an automated betting solution."
         details: |
