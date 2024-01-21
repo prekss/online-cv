@@ -38,6 +38,16 @@ sidebar:
         - idiom: English
           level: Professional
 
+    skills:
+      title: Skills
+      info:
+        - idiom: Greek
+          level: 
+
+        - idiom: English
+          level: 
+
+
     interests:
       title: 
       info:
