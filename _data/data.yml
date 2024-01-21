@@ -159,7 +159,7 @@ projects:
 
       - title: CopytipValidate
         link: 
-        tagline: "An initiative designed to augment the functionality of CopytipBot, a Python-based automated betting solution."
+        tagline: "An initiative designed to augment the functionality of CopytipBot."
         details: |
           Key Features:
              Utilizes Flask and the python-telegram-bot library to achieve:
