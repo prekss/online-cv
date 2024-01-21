@@ -49,15 +49,15 @@ sidebar:
 
 
     interests:
-      title: 
+      title: Skills
       info:
-        - item: 
+        - item: Python
           link:
 
-        - item: 
+        - item: Django
           link:
 
-        - item: 
+        - item: Selenium
           link:
 
 career-profile:
