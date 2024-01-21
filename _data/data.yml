@@ -211,7 +211,7 @@ projects:
              - Advanced Web Scraping: Utilizes Selenium for dynamic web scraping and Beautiful Soup for parsing HTML, ensuring accurate and efficient data extraction from various web sources.
              - Data Organization and Export: Seamlessly compiles the extracted data and organizes it in a user-friendly format. Utilizes the Openpyxl library to export the organized data back into an Excel file, facilitating easy analysis and reporting.
 
-          Main technologies/libraries used: Python, Selenium, Openpyxl, Openpyxl, Beautiful Soup
+          Main technologies/libraries used: Python, Selenium, Openpyxl, Beautiful Soup
 
       - title: AISParser
         link: 
@@ -222,7 +222,7 @@ projects:
              - Input from Excel: Accepts an input Excel file with a list of vessel names, providing a straightforward approach for users to specify the data they need.
              - Efficient Data Export: After scraping and processing the data, AisParser utilizes the Openpyxl library to export the information into a well-organized Excel file, making data analysis and reporting more accessible.
 
-          Main technologies/libraries used: Python, Selenium, Openpyxl, Openpyxl
+          Main technologies/libraries used: Python, Selenium, Openpyxl
 
       - title: WizardNotifier
         link: 
