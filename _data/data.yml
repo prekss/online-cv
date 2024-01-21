@@ -39,17 +39,17 @@ sidebar:
         - idiom: English
           level: Professional
 
-    interests:
-      title:
-      info:
-        - item:
-          link:
+    #interests:
+    #  title:
+    #  info:
+    #    - item:
+    #      link:
 
-        - item:
-          link:
+    #    - item:
+    #      link:
 
-        - item:
-          link:
+    #    - item:
+    #      link:
 
 career-profile:
     title: Career Profile
