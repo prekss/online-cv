@@ -273,13 +273,26 @@ p {
     margin-top: 0;
     margin-bottom: 12px;
   }
+  .level-title-sidebar {
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 12px;
+  }
   .level-bar {
     height: 12px;
     background: $smoky-white;
   }
+  .level-bar-sidebar {
+    height: 12px;
+    background: lighten($theme-color, 15%);
+  }
   .level-bar-inner {
     height: 12px;
     background: lighten($theme-color, 15%);
+  }
+  .level-bar-inner-sidebar {
+    height: 12px;
+    background: $smoky-white;
   }
 }
 
