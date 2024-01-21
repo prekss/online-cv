@@ -259,6 +259,9 @@ skills:
       - name: SQL
         level: 90%        
 
+      - name: Windows System Administration
+        level: 90%
+
       - name: Software Testing
         level: 80%
 
@@ -276,9 +279,6 @@ skills:
 
       - name: HTML5 & CSS
         level: 70%
-
-      - name: Windows System Administration
-        level: 90%
 
       - name: JavaScript & AJAX
         level: 60%
