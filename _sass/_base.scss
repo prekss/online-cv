@@ -132,6 +132,17 @@ p {
       margin-bottom: 0px;
     }
   }
+  .details {
+    padding-top: 5px;
+    color: rgba(255,255,255,0.85);
+    ul {
+      padding-left: 0em;
+      list-style-type: none;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+  }
   .languages-container {
     .lang-desc {
       color: rgba(256, 256, 256, 0.6);
