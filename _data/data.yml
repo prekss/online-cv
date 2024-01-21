@@ -162,7 +162,7 @@ projects:
         tagline: "An initiative designed to augment the functionality of CopytipBot."
         details: |
           Key Features:
-             - User Verification: Implements a robust verification system by receiving assigned names, MAC addresses and Hard Disk UUID through post requests, to ensure that only authorized users have access to CopytipBot, thereby maintaining control over the distribution and use of the application.
+             - User Verification: Implements a robust verification system by receiving assigned names, MAC addresses and System UUIDs through post requests, to ensure that only authorized users have access to CopytipBot, thereby maintaining control over the distribution and use of the application.
              - Real-Time Telegram Alerts: Provides users with instantaneous notifications on Telegram. These alerts cover a range of important updates, including service disruptions, incidents, low balance status and network failures on the installed machines.
 
           Main technologies/libraries used: Python, Flask
