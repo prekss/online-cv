@@ -38,26 +38,16 @@ sidebar:
         - idiom: English
           level: Professional
 
-    skills:
-      title: Skills
-      info:
-        - idiom: Greek
-          level: 
-
-        - idiom: English
-          level: 
-
-
     interests:
-      title: Skills
+      title: Interests
       info:
-        - item: Python
+        - item: 
           link:
 
-        - item: Django
+        - item: 
           link:
 
-        - item: Selenium
+        - item: 
           link:
 
 career-profile:
