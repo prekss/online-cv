@@ -199,7 +199,7 @@ projects:
              - Multi-Platform Notifications: Enables real-time notifications through Pushbullet, Pushover, and Telegram about trade executions, market conditions, and bot activities.
              - Trade History and Performance Tracking: Maintains a comprehensive record of all executed trades in a SQLite database, facilitating thorough monitoring of portfolio performance and analysis of strategy effectiveness.
 
-          Main technologies/libraries used: Python, APIs, SQLite, Telethon
+          Main technologies/libraries used: Python, REST APIs, SQLite, Telethon
 
       - title: MisParser
         link: 
