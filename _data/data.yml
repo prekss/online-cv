@@ -62,12 +62,6 @@ education:
         university: Kingston University London
         time: 09/2013 - 02/2016
         details: |
-          Courses:
-            - Data Communications
-            - Multimedia Communications
-            - Wireless Communications and Networks
-            - Network and Information security
-
           Dissertation: "Video Codec Evaluation Based on PSNR, SSIM, VQM and MSE"
       - degree: BSc in Electronics Engineering
         university: Technological Educational Institute of Piraeus
@@ -83,15 +77,10 @@ experiences:
         company: All Marine International Services Ltd.
         details: |
           Sales Services:
-            - Researching, identifying and contacting leads
-            - Following up and renewing sales
-            - Bringing in new business and making sales
+            - Researching, identifying and contacting leads, following up and renewing sales, bringing in new business and making sales
             
           IT Services:
-            - Developing automation tools using Python to enhance sales processes
-            - Managing and monitoring network and server infrastructure
-            - Ensuring data is backed up on a regular basis
-            - Providing technical support to office computer users
+            - Developing automation tools using Python to enhance sales processes, managing and monitoring network and server infrastructure, ensuring data is backed up on a regular basis, providing technical support to office computer users
             
       - role: ICT Administrator
         time: 10/2012 - 06/2015
