@@ -194,7 +194,6 @@ projects:
              - Integration with Telegram: Utilizes the Telethon library to connect to Telegram, parsing and executing trading signals based on user-defined settings.
              - Advanced Trading Settings: Includes comprehensive features like leverage adjustment, position sizing, distribution across up to 7 targets, breakeven points, trailing stops and specific take profit/stop loss levels.
              - Real-Time Market Data: Leverages the Binance Futures API for access to real-time market data, crucial for making informed trading decisions.
-             - Backtesting Capability: Allows traders to backtest their strategies using historical data, providing valuable insights into strategy performance in simulated environments.
              - User Commands for Monitoring: Offers a variety of commands to check current balance, open positions, and orders, enhancing user control and oversight.
              - Multi-Platform Notifications: Enables real-time notifications through Pushbullet, Pushover, and Telegram about trade executions, market conditions, and bot activities.
              - Trade History and Performance Tracking: Maintains a comprehensive record of all executed trades in a SQLite database, facilitating thorough monitoring of portfolio performance and analysis of strategy effectiveness.
