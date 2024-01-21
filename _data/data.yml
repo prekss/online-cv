@@ -81,24 +81,18 @@ experiences:
             
           IT Services:
             - Developing automation tools using Python to enhance sales processes
-            - Managing and monitoring network and server infrastructure
-            - Ensuring data is backed up on a regular basis
+            - Managed network and server infrastructure, ensuring regular data backups.
             - Providing technical support to office computer users
             
       - role: ICT Administrator
         time: 10/2012 - 06/2015
         company: Enel Green Power
         details: |
-          ICT Services:
-            - Managing and monitoring network and server infrastructure
-            - Ensuring data is backed up on a regular basis
-            - Providing technical support to office computer users & remote collaborators
-            - Serving as the initial point of contact for troubleshooting and resolving IT issues
-            - Documenting all IT problems and resolutions
-            - Liasing with external support company
-            - Conducting induction sessions for new staff on IT systems
-            - Managing inventory of hardware and maintenance records
-            - Ensuring all software is properly licensed
+          - Oversaw network and server infrastructure, ensuring consistent data backup.
+          - Provided IT support to both office and remote staff.
+          - Acted as the first point of contact for IT troubleshooting and issue resolution.
+          - Managed IT documentation, external support liaisons, and staff IT inductions.
+          - Maintained hardware inventory and software licensing.
       - role: Sales
         time: 07/2007 - 08/2008
         company: Levi Strauss & Co.
