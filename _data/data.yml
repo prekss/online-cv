@@ -61,19 +61,11 @@ education:
       - degree: MSc in Networking & Data Communications
         university: Kingston University London
         time: 09/2013 - 02/2016
-        details: |
-          Courses:
-            - Data Communications
-            - Multimedia Communications
-            - Wireless Communications and Networks
-            - Network and Information security
-
-          Dissertation: "Video Codec Evaluation Based on PSNR, SSIM, VQM and MSE"
+        details:
       - degree: BSc in Electronics Engineering
         university: Technological Educational Institute of Piraeus
         time: 02/2008 - 05/2012
-        details: |
-          Dissertation: “Smart Grids and their Applications in Renewal Energy Sources” 
+        details: 
 
 experiences:
     title: Experiences
